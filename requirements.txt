@@ -1,0 +1,7 @@
+gradio==4.44.0
+torch
+transformers
+accelerate
+sentencepiece
+Pillow
+
